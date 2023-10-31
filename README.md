@@ -7,7 +7,7 @@ Homepage de uma PetShop em **HTML e CSS** para aplicação de conhecimentos de f
 
 
 ### Sumário
-- <a href="#creditos-prototipo">Créditos protótipo</a>
+- <a href="#créditos-protótipo">Créditos protótipo</a>
 - <a href="#layout-prototipo">Layout do prototipo</a>
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
 - <a href="https://laism.github.io/p1_fantastika_vnw/">Publicação do projeto</a>
@@ -28,7 +28,7 @@ https://xd.adobe.com/view/c20d8ff9-baf0-4a06-b200-3ffde9c66040-975e/flow
 HTML & CSS
 <br><br>
 
-### Projeto Fantástika
+### Projeto Fantastika
 ! [Home Fantástika] (url)
 <br><br>
 
@@ -45,7 +45,8 @@ HTML & CSS
 **Entrega:** O desafio deve ser alocado no github e a página online no GitHub Pages.
 <br><br>
 
-### Status do projeto - próxima fase 🚧
+### Status do projeto 
+**próxima fase** 🚧
 - Refatoração do código
 - Melhorias no Layout
 - Layout responsivo para tablet
