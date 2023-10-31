@@ -7,7 +7,7 @@ Homepage de uma PetShop em **HTML e CSS** para aplicação de conhecimentos de f
 
 
 ### Sumário
-- <a href="#créditos-protótipo">Créditos protótipo</a>
+- <a href="#autoria-do-layout">Autoria do Layout</a>
 - <a href="#layout-prototipo">Layout do prototipo</a>
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
 - <a href="https://laism.github.io/p1_fantastika_vnw/">Publicação do projeto</a>
@@ -16,11 +16,11 @@ Homepage de uma PetShop em **HTML e CSS** para aplicação de conhecimentos de f
 - <a href="#status-do-projeto">Status do projeto</a>
 <br><br>
 
-### Créditos do Protótipo
+### Autoria do Layout
 VaiNaWeb
 
 
-### Layout protótipo
+### Layout prototipo
 https://xd.adobe.com/view/c20d8ff9-baf0-4a06-b200-3ffde9c66040-975e/flow
 <br><br>
 
@@ -29,7 +29,7 @@ HTML & CSS
 <br><br>
 
 ### Projeto Fantastika
-! [Home Fantástika] (url)
+! [Home Fantástika] (https://github.com/LaisM/p1_fantastika_vnw/blob/main/assets/layout1_projeto_fantastica.png)
 <br><br>
 
 ### Requisitos do projeto
