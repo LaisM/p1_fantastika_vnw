@@ -29,7 +29,7 @@ HTML & CSS
 <br><br>
 
 ### Projeto Fantastika
-! [Home Fantástika] (https://github.com/LaisM/p1_fantastika_vnw/blob/main/assets/layout1_projeto_fantastica.png)
+[Home Fantástika] (https://github.com/LaisM/p1_fantastika_vnw/blob/main/assets/layout1_projeto_fantastica.png)
 <br><br>
 
 ### Requisitos do projeto
